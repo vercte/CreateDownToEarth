@@ -1,0 +1,13 @@
+name = "Create: Bitterballen"
+filename = "create_bitterballen-0.0.80+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/16DuAG4k/versions/fzlLNIEc/create_bitterballen-0.0.80%2B1.20.1-fabric.jar"
+hash-format = "sha1"
+hash = "b0f9f89c6e7bd5f86605dc732044885e47a6657c"
+
+[update]
+[update.modrinth]
+mod-id = "16DuAG4k"
+version = "fzlLNIEc"

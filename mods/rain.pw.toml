@@ -1,0 +1,13 @@
+name = "Rain Growth"
+filename = "rain-grow-1.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/l0tpiNe7/versions/4kJXWBwz/rain-grow-1.2.jar"
+hash-format = "sha1"
+hash = "b2ae5c2b6e7f2c223b4e74c5c62a01daf51b83ab"
+
+[update]
+[update.modrinth]
+mod-id = "l0tpiNe7"
+version = "4kJXWBwz"

@@ -1,0 +1,13 @@
+name = "Create Down To Earth"
+author = "Vercte"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "24c6e29c25a32069de242066b30903bc8f8cc827aa5fcae45c5d8984c45d5a23"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.1"
