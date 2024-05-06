@@ -1,8 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/exordium.json"
+hash = "2ebba80a87b71e0353475dcccca515e14e35c3acc4a1280c3ad6937f932e57ed"
+
+[[files]]
+file = "kubejs/data/garnished/tags/worldgen/biome/allows_for_nuts.json"
+hash = "e24257534e1d3e2efd30018024e8e48e6f158264ed4c617d01bdab7d375ec079"
+
+[[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "b71f58c8d8c55f69de353b6222a17598c87b17dbedfdf18e8aeae43ad77a73ed"
+metafile = true
+
+[[files]]
 file = "mods/aileron.pw.toml"
 hash = "92c0c8ce733ad75ae5a207b20786dd7c712d90e9d0d5a390a5cbc00bf1cdf3bb"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
 metafile = true
 
 [[files]]
@@ -61,6 +79,11 @@ hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "c3c0934476bb1a8438b382b7ba9c32d1be0c97cb10b38d7494a60c518d99d0a7"
 metafile = true
@@ -98,6 +121,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "e3ca186b116bd65d49fb0db709a1b37d303318e3afb2e06bc662313b53346d06"
+metafile = true
+
+[[files]]
+file = "mods/cleardespawn.pw.toml"
+hash = "be484c508ba6866ae478956e053a069643d489b8a92eb6079057d70e3337c106"
 metafile = true
 
 [[files]]
@@ -366,6 +394,11 @@ hash = "b5b076663f62cfb0c3d8ee8e304711d6fbfa043f72a4706dc88edb927da6f046"
 metafile = true
 
 [[files]]
+file = "mods/keybind-fix.pw.toml"
+hash = "48777d535f2dbe76ec2adb6a001ab4442e40e0e403570eb5dc9a49e6957e40a1"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
@@ -476,6 +509,11 @@ hash = "1a0cd2ed9e08d72f6287e78ed29f0c68f364d3b9b5fc4b2a7a9f64c05c97e489"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "6f544187351671449d090d19f2279c288efba093d470a0bbd4580eb2750105cb"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
@@ -488,11 +526,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "c737bdfd6940736f88cd39065a0193ba70637a560fbce4389e59f67d72813209"
-metafile = true
-
-[[files]]
-file = "mods/numeral-ping.pw.toml"
-hash = "302fd17aa449bfa848e2460ebd01dfb2862c815bd9403548f57155b7dde47f9b"
 metafile = true
 
 [[files]]
@@ -533,6 +566,11 @@ metafile = true
 [[files]]
 file = "mods/rain.pw.toml"
 hash = "9e1771882f74438f7dcf4fa24b208579d4f7a3fbdf4e4448484f4923ce367016"
+metafile = true
+
+[[files]]
+file = "mods/reacharound.pw.toml"
+hash = "1bdc2b4d59ee6805bcd05fb4a68782c2a020270a7da21531b245fd03b5ba2426"
 metafile = true
 
 [[files]]
@@ -658,6 +696,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "34108efa4206b09f00d088be089236914a6fb04852aae5b6ce6293412ed6a6f7"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
