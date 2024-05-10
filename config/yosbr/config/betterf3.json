@@ -182,16 +182,7 @@
 				"opengl_version": true,
 				"gpu_driver": true
 			}
-		}, 
-		{
-			"name": "miscright",
-			"name_color": 16645526,
-			"value_color": 5636095,
-			"enabled": true,
-			"lines": {
-				"misc_right": true
-			}
-		}, 
+		},
 		{
 			"name": "empty",
 			"empty_lines": 1,

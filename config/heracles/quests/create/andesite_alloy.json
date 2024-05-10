@@ -1,0 +1,69 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "andesite_alloy": {
+      "type": "heracles:item",
+      "item": "create:andesite_alloy",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Obtain Andesite Alloy",
+      "icon": {
+        "item": {
+          "id": "create:andesite_alloy",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "experiences": {
+      "icon": {
+        "item": {
+          "id": "create:experience_nugget",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "xptype": "POINTS",
+      "amount": 5,
+      "title": "Woah! Experiences!",
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Combine Andesite with Iron/Zinc Nuggets to \"Create\" the material used in many machines"
+    },
+    "description": [
+      "Get Andesite Alloy by combining 2 Andesite with 2 Iron or Zinc nuggets.",
+      "Andesite Alloy forms the material that the majority of Create's components are based on, allowing you to start automation!"
+    ],
+    "groups": {
+      "Create": {
+        "position": [
+          0,
+          0
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "create:andesite_alloy",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/diamonds.png",
+    "title": {
+      "translate": "Andesite Alloys"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

@@ -1,8 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/exordium.json"
+file = "config/yosbr/config/betterf3.json"
+hash = "1d3a472ff06ee5f555a60781f14371091e0d3b5fcc28351d7cd423505372f9d3"
+
+[[files]]
+file = "config/yosbr/config/chunksfadein.properties"
+hash = "d8e4f855b4226bda12fbb7b2c3ac892e28c66c9cd68b2400e7787a6d9c72201f"
+
+[[files]]
+file = "config/yosbr/config/exordium.json"
 hash = "2ebba80a87b71e0353475dcccca515e14e35c3acc4a1280c3ad6937f932e57ed"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "e757ce543019a7cfbb211ff5ef0b271a30e4129a9db940f683c578dfcce4f454"
 
 [[files]]
 file = "kubejs/data/garnished/tags/worldgen/biome/allows_for_nuts.json"
@@ -64,11 +76,6 @@ hash = "ab6a6dc2a3fa157464f0294d8b5d3e6b8b882c9b520c7f7e0ca8329094ed1dfa"
 metafile = true
 
 [[files]]
-file = "mods/beans-backpacks.pw.toml"
-hash = "945f157e5e2b6962f75428d635f672ebb4efd147d56280a63077ec114519ee2f"
-metafile = true
-
-[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "e0939ffb6b7b49dde8f936cd83f6f4881238f71bbdf14afe3b22b364b7e8cfbe"
 metafile = true
@@ -101,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "5afe4e900b83aa83109d0c845df28e9695d8e3639518b0f08169a547f0e3682b"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
 metafile = true
 
 [[files]]
@@ -224,11 +236,6 @@ hash = "ee965d6f2e0a9cdc31139b0d8a3367eb8db031065a03142534652573626e9787"
 metafile = true
 
 [[files]]
-file = "mods/e4mc.pw.toml"
-hash = "706924659dac92dc50b584b1ecf8f90ba628ede1e029d8642ca4aaec4d9eb3d5"
-metafile = true
-
-[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "f88b04c5b537da9f1d032e3c9dff56648d9c19b7658af065f11d618f5c1c3fdd"
 metafile = true
@@ -246,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/emiffect.pw.toml"
 hash = "2ad35d1b513308d702e9fe45f3c711d63dd1abb8fcbbb40d9a1d7c37d4d5d367"
+metafile = true
+
+[[files]]
+file = "mods/emuno.pw.toml"
+hash = "8f0c18360533351fff9237b803b1a91fb86cc9b00d56e61f116076e654c9f8e8"
 metafile = true
 
 [[files]]
@@ -309,6 +321,11 @@ hash = "75ffe202cd8947bbbb748a46bcd9d1cfb55d34a2fc95909b3001ac8433625fb7"
 metafile = true
 
 [[files]]
+file = "mods/fix-keyboard-on-linux.pw.toml"
+hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
+metafile = true
+
+[[files]]
 file = "mods/fluidlogged.pw.toml"
 hash = "57222b99906909b49cd3eec0dfb7d5277e205148a8461f2c0c06ed267b9b43d6"
 metafile = true
@@ -331,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/held-item-info.pw.toml"
 hash = "c24e05bc69b5e571da13b6f854c89ea093deab2b74b1bd3e8f17113a2f01c07e"
+metafile = true
+
+[[files]]
+file = "mods/heracles.pw.toml"
+hash = "e9272674cbc16be7f504e6581eb430a159f49055da42946e83350b4f87c4f78a"
 metafile = true
 
 [[files]]
@@ -439,6 +461,11 @@ hash = "a28dd36b91f95e14dae9fc4b75a8316d9dc753182587e4fe9ca5d21963d05814"
 metafile = true
 
 [[files]]
+file = "mods/loqui.pw.toml"
+hash = "8e273299702b68a6503a2d4bd42a05b629a207d84e7fcb6e7510276ac16e0c89"
+metafile = true
+
+[[files]]
 file = "mods/magnum-torch.pw.toml"
 hash = "f55d3feb4d1609d5567258dba90fbb583e6ee827aa32aa1cd2b9281dd1a0b614"
 metafile = true
@@ -461,6 +488,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "e78faacb02c5ad86a31ff1178d48c5b231433bb1128584c987ef60224057fb75"
+metafile = true
+
+[[files]]
+file = "mods/modernkeybinding.pw.toml"
+hash = "1f92d47cf71d830265486ab8246d82b7718f0d434bedd5716867bffed9fd5d30"
 metafile = true
 
 [[files]]
@@ -554,6 +586,11 @@ hash = "5f90796765960f0fd2983895ceb3f345bd723ff826d24b4f291fa6256f4ce002"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "74058d27cf4f2eaa273b7e3e7068e573a196d12116d2290c9088cdb5895c3aa8"
+metafile = true
+
+[[files]]
 file = "mods/pretty-beaches.pw.toml"
 hash = "553a03579c854f7b00bd1c013607e010ef4ea6e5368545de2c0f92897ae27d17"
 metafile = true
@@ -576,6 +613,11 @@ metafile = true
 [[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 hash = "352bbd75887df2d8c2c181255a27d6aebc78dd52ee867c85a317a4e2b83a49fd"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "ed3cf45b08dcd6ba3259a7adcc1940fbccfbf4ade1da616d3c4244f17c7f74b2"
 metafile = true
 
 [[files]]
@@ -616,6 +658,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
+hash = "1279f7c9a8416da1a3f78802598c5a4c95726f4c8f44d0d826f2168e35b55329"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
+hash = "6b75e10f3d58c16dbe47af8c0d94aeec5be9e89d05b37bce1a985f39b34c53bb"
 metafile = true
 
 [[files]]
@@ -691,6 +743,11 @@ metafile = true
 [[files]]
 file = "mods/vtdownloader.pw.toml"
 hash = "5944130f698e8cac37ddb6599351d96d4018208eb26c551a682a2d13b647320f"
+metafile = true
+
+[[files]]
+file = "mods/world-host.pw.toml"
+hash = "2200914b42056b8c7d5e4d6f0ae0365da45294cab7a13361c1cece483706297b"
 metafile = true
 
 [[files]]

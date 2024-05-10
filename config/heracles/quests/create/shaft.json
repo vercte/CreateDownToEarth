@@ -1,0 +1,70 @@
+{
+  "dependencies": [
+    "andesite"
+  ],
+  "tasks": {
+    "shafts": {
+      "type": "heracles:item",
+      "item": "create:shaft",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Obtain Shafts",
+      "icon": {
+        "item": {
+          "id": "create:shaft",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "another": {
+      "icon": {
+        "item": {
+          "id": "create:experience_nugget",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "xptype": "POINTS",
+      "amount": 1,
+      "title": "Woah! More Experiences!",
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "It's like a stick, but with Andesite Alloys!"
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "Create": {
+        "position": [
+          64,
+          -48
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "create:shaft",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Obtain Shafts"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}
