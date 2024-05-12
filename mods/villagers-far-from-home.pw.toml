@@ -1,6 +1,6 @@
 name = "Villagers: Far From Home"
 filename = "villagersffh-0.5.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/UZJuyOGB/versions/NYSlZH3b/villagersffh-0.5.1.jar"
