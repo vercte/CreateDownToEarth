@@ -41,12 +41,8 @@ file = "config/yosbr/config/modmenu.json"
 hash = "e8c8bd2f162a095d356436b88e79e171dfee6c12cdc9737b95b0873fa3b507fd"
 
 [[files]]
-file = "export/Create Down To Earth-1.0.0.zip"
-hash = "fbf60de1e5dc0c1d19f8a9b2df8888090edb24c045d62aa6689deb750a83a8e0"
-
-[[files]]
-file = "kubejs/data/garnished/tags/worldgen/biome/allows_for_nuts.json"
-hash = "e24257534e1d3e2efd30018024e8e48e6f158264ed4c617d01bdab7d375ec079"
+file = "kubejs/server_scripts/garnished_mastic_nerf.js"
+hash = "9241414d27b45874b2cddecdacbc44bbb9e82e4be9d2ce23ebb7eeaa39a8aa03"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -76,6 +72,11 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "6c77cd800ff4d87c0fecfbb1bb48e17919b6efb7b8b8c0932a9f8f376a1431bd"
+metafile = true
+
+[[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "525c8448074c4402b411c2b904eff4dae542834c649d13dc00475bd2546fe286"
 metafile = true
 
 [[files]]
@@ -161,6 +162,11 @@ metafile = true
 [[files]]
 file = "mods/cleardespawn.pw.toml"
 hash = "be484c508ba6866ae478956e053a069643d489b8a92eb6079057d70e3337c106"
+metafile = true
+
+[[files]]
+file = "mods/client-tweaks.pw.toml"
+hash = "d850ebf55e4799b3dc85bbc5629ea162a7e164d6321d42032757a94c8a048792"
 metafile = true
 
 [[files]]
@@ -271,6 +277,11 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "a5bce60eb3d4feced5e0e932c53e2dfa5257722b8bd5f1ac3aba99411263b00d"
+metafile = true
+
+[[files]]
+file = "mods/durability-plus.pw.toml"
+hash = "a73d0cdff7a07c267e9263eea60dc9ad0e3bda648c2698ddc2c880ef268c37db"
 metafile = true
 
 [[files]]
@@ -399,11 +410,6 @@ hash = "e9272674cbc16be7f504e6581eb430a159f49055da42946e83350b4f87c4f78a"
 metafile = true
 
 [[files]]
-file = "mods/here-be-no-dragons.pw.toml"
-hash = "b521cb1efedc7ce0443e6df6ea00c10beb0000c769f36812840ba83abc7aa520"
-metafile = true
-
-[[files]]
 file = "mods/horsebuff.pw.toml"
 hash = "5e60804222681b936e5878d228fb10b5682e3af1d0eedbe120c0b4ee63cc8aaf"
 metafile = true
@@ -516,6 +522,11 @@ metafile = true
 [[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "ac2ca5caef9ddb4fd53c035bfaf07026f12bcdb162d19c2fa473bdec8fbec630"
+metafile = true
+
+[[files]]
+file = "mods/measurements.pw.toml"
+hash = "1b9f7838512f33b41d20ec1353893382767072e9587d7d30389f679225066a9f"
 metafile = true
 
 [[files]]
@@ -674,6 +685,16 @@ hash = "e96bb13c530a62100ad228f1c59f0fc37ceb91ec3e622a0a5d0e32cbe5d95424"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-viewer.pw.toml"
+hash = "2a3952446f1c8e8e9be2f79676510faeb92c130c10ff74f2d8d2cf89db55708b"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
 metafile = true
@@ -769,6 +790,16 @@ hash = "bae355c2ab7052b023f25085e5632dadf95e97e773567405f1bd0702c397c535"
 metafile = true
 
 [[files]]
+file = "mods/ukulib.pw.toml"
+hash = "e5872cc60c44ec15f089987419b646d50d4f3e8ed00bb470f58a2ee17f4395db"
+metafile = true
+
+[[files]]
+file = "mods/ukus-armor-hud.pw.toml"
+hash = "4a807bf22e6095d7732c4e619201a372bbe132f9b1ed478e409ff9777e6f6ffd"
+metafile = true
+
+[[files]]
 file = "mods/villager-names-serilum.pw.toml"
 hash = "98198997d49cf47eecb9424028b3a916c2852d8217e0c442bb895483ea631e0c"
 metafile = true
@@ -796,6 +827,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "34108efa4206b09f00d088be089236914a6fb04852aae5b6ce6293412ed6a6f7"
+metafile = true
+
+[[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "441bb3a82f6d0b09cc10984cfd468f53bdd9879f7fda5b0299b53ccbf2ba7ca6"
 metafile = true
 
 [[files]]
