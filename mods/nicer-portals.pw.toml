@@ -1,0 +1,13 @@
+name = "Nicer Portals"
+filename = "nicerportals-1.2.1+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZD4RcHBZ/versions/VTF9COTv/nicerportals-1.2.1%2B1.20.jar"
+hash-format = "sha1"
+hash = "347c094209104b72ce7a31a897fa5cb97e186e3b"
+
+[update]
+[update.modrinth]
+mod-id = "ZD4RcHBZ"
+version = "VTF9COTv"
