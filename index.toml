@@ -151,6 +151,11 @@ hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
 metafile = true
 
 [[files]]
+file = "mods/bodies-bodies.pw.toml"
+hash = "a2adc95904d84c8d63c964f965827a1a34b413670a8b8deef1029ced76e93818"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "5afe4e900b83aa83109d0c845df28e9695d8e3639518b0f08169a547f0e3682b"
 metafile = true
