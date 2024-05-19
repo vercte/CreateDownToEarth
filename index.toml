@@ -111,6 +111,11 @@ hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
+file = "mods/async-locator.pw.toml"
+hash = "1c03a3f5b5e061890585ecf6e41995fdc9c9b5081fff50cac3b3e9fd412c63dc"
+metafile = true
+
+[[files]]
 file = "mods/backported-wolves.pw.toml"
 hash = "166bfddae9c15e5bd03e5fd2311d9ecab2b117f348258c679d4847ebbc4e0119"
 metafile = true
