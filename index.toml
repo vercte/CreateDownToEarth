@@ -21,6 +21,14 @@ file = "config/heracles/tutorial.html"
 hash = "3ee4fc4dea2619980a842af8e3b992a25d5aa0e3405c693d4d5def280928fa03"
 
 [[files]]
+file = "config/yosbr/config/Veinminer/blocks.json"
+hash = "18b95c3a9a95f6985aa66ffec084f088052e991ba8a5ff39495238e19570cbf0"
+
+[[files]]
+file = "config/yosbr/config/Veinminer/settings.json"
+hash = "8eb95bcbc154530931e15fc418c8b1fe991095671409552099ea1aa596999ede"
+
+[[files]]
 file = "config/yosbr/config/ambientsounds-client.json"
 hash = "592fd2e96d2440aa359b5899d7a823d520d298e984762116a3c48ea7071259f4"
 
@@ -50,7 +58,7 @@ hash = "fb608c7fbea4147bddaee5404ec27fb1f4d7af322059d3bb5d3081311efd35be"
 
 [[files]]
 file = "kubejs/client_scripts/hide_items.js"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "98fff1e2c292bb0cdbb7f5464e01d7b3ff0177a1f7e5935a7f99461c4be3f902"
 
 [[files]]
 file = "kubejs/server_scripts/dye_recipes.js"
@@ -59,6 +67,10 @@ hash = "c1ebfc6f668dbb0c6d9b9fd25d3e753eec021342b9bfeee48e70cbcd858a5216"
 [[files]]
 file = "kubejs/server_scripts/garnished_mastic_nerf.js"
 hash = "e26287a9a1fa9d7266f7c55e41cd39e7f5f087c59040d7704b292b2be14d1a64"
+
+[[files]]
+file = "kubejs/server_scripts/spelunky_milling.js"
+hash = "81cbbaf51098931d5009cdc1f0c947e3dd26dbdc64727acf10f71cc2746fdf0b"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -112,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/async-locator.pw.toml"
-hash = "1c03a3f5b5e061890585ecf6e41995fdc9c9b5081fff50cac3b3e9fd412c63dc"
+hash = "b0c84806bc32028e006144a81865ff5180614bb8146ffc265a905bb2c6c3e1bb"
 metafile = true
 
 [[files]]
