@@ -36,8 +36,8 @@
       "translate": "Combine Andesite with Iron/Zinc Nuggets to \"Create\" the material used in many machines"
     },
     "description": [
-      "Get Andesite Alloy by combining 2 Andesite with 2 Iron or Zinc nuggets.",
-      "Andesite Alloy forms the material that the majority of Create's components are based on, allowing you to start automation!"
+      "Get /a/Andesite Alloy/a/ by /b/combining/b/ 2 Andesite with 2 Iron or Zinc nuggets.",
+      "/a/Andesite Alloy/a/ forms the material that the majority of Create's components are based on, allowing you to start /d/**__automation__**/d/!"
     ],
     "groups": {
       "Create": {

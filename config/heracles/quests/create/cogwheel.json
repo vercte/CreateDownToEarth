@@ -1,11 +1,17 @@
 {
   "dependencies": [
-    "andesite_alloy"
+    "shaft"
   ],
   "tasks": {
     "shafts": {
       "type": "heracles:item",
-      "item": "create:shaft",
+      "item": "create:cogwheel",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    },
+    "large_cogwheel": {
+      "type": "heracles:item",
+      "item": "create:large_cogwheel",
       "amount": 1,
       "collection": "AUTOMATIC"
     }
@@ -21,35 +27,36 @@
       },
       "xptype": "POINTS",
       "amount": 1,
-      "title": "Woah! More Experiences!",
+      "title": "Too many experiences.",
       "type": "heracles:xp"
     }
   },
   "display": {
     "subtitle": {
-      "translate": "It's like a stick, but stronger!"
+      "translate": "Gear."
     },
     "description": [
-      "/a/Shafts/a/ are /b/essential/b/ for Create, allowing /e/Rotational Force/e/ to be moved from point A to point B, and also forming many /b/crafting recipes/b/ of the components you'll be using in the future. Start by getting some /a/Andesite Alloys/a/ and crafting them together."
+      "/a/Cogwheels/a/ are another /b/essential/b/ component for Create, allowing /e/Rotational Force/e/ to be moved sideways in a straight line.",
+      "Yet again, they're used in many component recipes, and /d/look cool when they're integrated into a build!/d/"
     ],
     "groups": {
       "Create": {
         "position": [
           64,
-          -48
+          -80
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "create:shaft",
+        "id": "create:cogwheel",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
     "title": {
-      "translate": "Obtain Shafts"
+      "translate": "Obtain Cogwheels"
     }
   },
   "settings": {

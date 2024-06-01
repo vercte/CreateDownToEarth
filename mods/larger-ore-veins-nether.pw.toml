@@ -1,0 +1,13 @@
+name = "Larger Ore Veins: Nether"
+filename = "larger-ore-veins-nether-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/onvdDvvO/versions/PpggBmlB/larger-ore-veins-nether-1.1.1.jar"
+hash-format = "sha1"
+hash = "eae2f7d14ccd5eaea36d4d959626bb181cc804f6"
+
+[update]
+[update.modrinth]
+mod-id = "onvdDvvO"
+version = "PpggBmlB"

@@ -1,0 +1,78 @@
+{
+  "dependencies": [
+    "shaft"
+  ],
+  "tasks": {
+    "harnessed_hydraulics": {
+      "icon": {
+        "item": {
+          "id": "create:experience_nugget",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "advancements": [
+        "create:water_wheel"
+      ],
+      "type": "heracles:advancement"
+    },
+    "get_water": {
+      "type": "heracles:item",
+      "item": "minecraft:water_bucket",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    },
+    "water_wheel": {
+      "type": "heracles:item",
+      "item": "create:water_wheel",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "pie": {
+      "title": "A treat :D",
+      "item": {
+        "id": "garnished:pecan_pie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Get a Water Wheel, your very first source of Rotational Force"
+    },
+    "description": [
+      "/e/Rotational Force/e/ is the backbone of Create, and a /a/Water Wheel/a/ is the easiest way to get it.",
+      "",
+      "When you have a /a/Water Wheel/a/ and a /a/Bucket of Water/a/, place the bucket of water on the water wheel, letting it run over the water wheel and spin it. /b/Make sure the current is only going in one direction/b/, otherwise the water wheel may not work!"
+    ],
+    "groups": {
+      "Create": {
+        "position": [
+          128,
+          -48
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "create:water_wheel",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Harnessed Hydraulics"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

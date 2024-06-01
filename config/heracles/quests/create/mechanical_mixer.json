@@ -1,0 +1,84 @@
+{
+  "dependencies": [
+    "mechanical_press"
+  ],
+  "tasks": {
+    "mixingitup": {
+      "icon": {
+        "item": {
+          "id": "create:experience_nugget",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "advancements": [
+        "create:mechanical_mixer"
+      ],
+      "type": "heracles:advancement"
+    },
+    "basin": {
+      "type": "heracles:item",
+      "item": "create:basin",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    },
+    "whisk": {
+      "type": "heracles:item",
+      "item": "create:whisk",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    },
+    "mechanical_mixer": {
+      "type": "heracles:item",
+      "item": "create:mechanical_mixer",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "iron": {
+      "title": "Alloy!",
+      "item": {
+        "id": "create:andesite_alloy",
+        "count": 8
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Get a Mechanical Mixer and spin some items around in a basin"
+    },
+    "description": [
+      "A /a/Mechanical Mixer/a/ is a handy way to combine items in /e/Shapeless Recipes/e/ and some special /e/Mixing Recipes/e/ too! It uses /e/Rotational Force/e/ like the /a/Mechanical Press/a/, but you'll need to /b/power it with a cogwheel/b/ instead of a shaft and /b/get it spinning fast enough/b/ to work... /7/(see the quest /e/Shifting Gears/e/)/7/",
+      "",
+      "/7/(Fun Fact: Getting a Mixer working immediately makes Andesite Alloy twice as cheap! When you have it running, you can throw in a single Iron Nugget and a single Andesite and it'll make an alloy out of it)./7/"
+    ],
+    "groups": {
+      "Create": {
+        "position": [
+          192,
+          48
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "create:mechanical_mixer",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Mixing It Up"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

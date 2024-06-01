@@ -1,0 +1,89 @@
+{
+  "dependencies": [
+    "andesite_casing",
+    "shaft"
+  ],
+  "tasks": {
+    "iron": {
+      "type": "heracles:item",
+      "item": "minecraft:iron_ingot",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    },
+    "bonk": {
+      "icon": {
+        "item": {
+          "id": "create:experience_nugget",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "advancements": [
+        "create:mechanical_press"
+      ],
+      "type": "heracles:advancement"
+    },
+    "depot": {
+      "type": "heracles:item",
+      "item": "create:depot",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    },
+    "mechanical_press": {
+      "type": "heracles:item",
+      "item": "create:mechanical_press",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "iron": {
+      "title": "Some iron, for your troubles",
+      "item": {
+        "id": "minecraft:iron_ingot",
+        "count": 4
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Get your first Mechanical Press running and squish some metal"
+    },
+    "description": [
+      "A /a/Mechanical Press/a/ not only makes a /d/cool noise/d/ when you /b/put metal under it/b/, but it /b/flattens the metal into sheets/b/, too!",
+      "",
+      "To use the /a/Mechanical Press,/a/ you need to /b/power it with/b/ /e/Rotational Force/e/ and throw some items on /b/the block right below it/b/, whether it be on a/a/ Mechanical Belt/a/, /a/Depot/a/ /b/(I recommend the depot!)/b/, or the /c/cold hard ground/c/.",
+      "",
+      "You're going to use a lot of these sheets in your Create adventures, so /b/make sure to keep this press around/b/ ;)",
+      "",
+      "/7/(The Mechanical Press doesn't make *just* sheets! Right-click on the press in EMI to check out all the recipes it offers!)/7/"
+    ],
+    "groups": {
+      "Create": {
+        "position": [
+          128,
+          48
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "create:mechanical_press",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Bonk!"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

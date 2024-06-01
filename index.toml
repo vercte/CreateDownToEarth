@@ -6,19 +6,43 @@ hash = "49e52b78aa288e6b5a7885e4499de6c5612db4eae3d4e9d81bbe65de82e88348"
 
 [[files]]
 file = "config/heracles/quests/create/andesite_alloy.json"
-hash = "9f4f84e9a3b9a34603b4464daa7dd950c8dbb036159989895b4f0848b7f6ea26"
+hash = "9b7cdbac25af137a3a44989bf5ba7677f3b3648917279323e249c2d32542ae78"
 
 [[files]]
 file = "config/heracles/quests/create/andesite_casing.json"
-hash = "14a4955b7a6e43f53ee616fcb00744eff44255da306ca076c5d219a4ac705803"
+hash = "b5bae563930131ccb47ee1fe6a6b2454726ab573dcacfdb900f6106cb9300489"
+
+[[files]]
+file = "config/heracles/quests/create/cogwheel.json"
+hash = "c2222fb527055684bab96a8a514feba1a6cdc959d7b27961b4af60d294c1e2ef"
+
+[[files]]
+file = "config/heracles/quests/create/large_waterwheel.json"
+hash = "1e717b80b39d40e1ba262b9af4294b6058750be4d9461571766f4c038736808a"
+
+[[files]]
+file = "config/heracles/quests/create/mechanical_mixer.json"
+hash = "01c6c3d31f0953161a7a72b3fd1e49fd9c5df7edf33b0bfaa9a784dee7826ff5"
+
+[[files]]
+file = "config/heracles/quests/create/mechanical_press.json"
+hash = "b36ebc5618e4a5f18e0ea0ab3be103c5d9ff3e41732c59f2d96ca352eb806e0f"
 
 [[files]]
 file = "config/heracles/quests/create/shaft.json"
-hash = "437e37f180bca09b33f71c5b764f4b7dfe5625b20a14ceef5f41decdf23a3f40"
+hash = "031679889326a86596b13bfb1c50f889f11a78d6f9a1e675a1aeb9bc2538e88a"
+
+[[files]]
+file = "config/heracles/quests/create/shifting_gears.json"
+hash = "6e20060e665850ce96ffbcdd42036fca6dea7985d28d93e4cae3fb78b6feac9b"
+
+[[files]]
+file = "config/heracles/quests/create/water_wheel.json"
+hash = "60db1505f78b88d066460b70ec306d2e83ac6df136a154f66f720bfb03e8c1e0"
 
 [[files]]
 file = "config/heracles/tutorial.html"
-hash = "3ee4fc4dea2619980a842af8e3b992a25d5aa0e3405c693d4d5def280928fa03"
+hash = "f4d6d183b3ce413380dc874e0c03f9d69deb6c6832e973df83c5f78cb18fe22f"
 
 [[files]]
 file = "config/yosbr/config/Veinminer/blocks.json"
@@ -57,8 +81,16 @@ file = "config/yosbr/config/spelunkery-common.json"
 hash = "fb608c7fbea4147bddaee5404ec27fb1f4d7af322059d3bb5d3081311efd35be"
 
 [[files]]
+file = "kubejs/assets/downtoearth/textures/item/incomplete_tape_measure.png"
+hash = "c39d5274c334d135229711c434873dd5be87652cb5e47f74ec49391b467b9e5d"
+
+[[files]]
 file = "kubejs/client_scripts/hide_items.js"
 hash = "98fff1e2c292bb0cdbb7f5464e01d7b3ff0177a1f7e5935a7f99461c4be3f902"
+
+[[files]]
+file = "kubejs/server_scripts/create_integrated_recipes.js"
+hash = "52466e48c8c0608d58757c02d85df1202f1a0ee4b3c227f07d9b5e7110a1643d"
 
 [[files]]
 file = "kubejs/server_scripts/dye_recipes.js"
@@ -69,8 +101,20 @@ file = "kubejs/server_scripts/garnished_mastic_nerf.js"
 hash = "e26287a9a1fa9d7266f7c55e41cd39e7f5f087c59040d7704b292b2be14d1a64"
 
 [[files]]
-file = "kubejs/server_scripts/spelunky_milling.js"
+file = "kubejs/server_scripts/remove_redundant_items.js"
+hash = "7b6f978557d32d0f3e416af5f17d0eecef9c26155e52792cdd91459256cf9ed1"
+
+[[files]]
+file = "kubejs/server_scripts/spelunkery_milling.js"
 hash = "81cbbaf51098931d5009cdc1f0c947e3dd26dbdc64727acf10f71cc2746fdf0b"
+
+[[files]]
+file = "kubejs/startup_scripts/create_items.js"
+hash = "c9b74ee65c6e177472ee5728c9eb44b0edc9d3b61f96cb838f3e18ace528bcfc"
+
+[[files]]
+file = "kubejs/startup_scripts/startup.js"
+hash = "29ee9a4f9a97e206419c3f0cc198b714c59d0e3b435f4a60d37dfa517530fb29"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -128,6 +172,11 @@ hash = "b0c84806bc32028e006144a81865ff5180614bb8146ffc265a905bb2c6c3e1bb"
 metafile = true
 
 [[files]]
+file = "mods/attack-through-grass.pw.toml"
+hash = "5eda7f11150f4090a3bc0a17e71e2e314c9d90ad3b1af4be267fe969b04c3e03"
+metafile = true
+
+[[files]]
 file = "mods/backported-wolves.pw.toml"
 hash = "166bfddae9c15e5bd03e5fd2311d9ecab2b117f348258c679d4847ebbc4e0119"
 metafile = true
@@ -158,6 +207,11 @@ hash = "c3c0934476bb1a8438b382b7ba9c32d1be0c97cb10b38d7494a60c518d99d0a7"
 metafile = true
 
 [[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "9c44cf229440021ac7c42cd265fcec944fb002e2264c61688dfc21546bdaed5d"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "5e3ee3550327d6b3545abc363325056c9fc09fb4d48a841e32da2da54c7f74c9"
 metafile = true
@@ -165,11 +219,6 @@ metafile = true
 [[files]]
 file = "mods/bobby.pw.toml"
 hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
-metafile = true
-
-[[files]]
-file = "mods/bodies-bodies.pw.toml"
-hash = "a2adc95904d84c8d63c964f965827a1a34b413670a8b8deef1029ced76e93818"
 metafile = true
 
 [[files]]
@@ -423,6 +472,11 @@ hash = "57222b99906909b49cd3eec0dfb7d5277e205148a8461f2c0c06ed267b9b43d6"
 metafile = true
 
 [[files]]
+file = "mods/fog-looks-good-now-fabric.pw.toml"
+hash = "3088af6b73d21fd53d201fba7a5f018835822ed1413254d34df6dcb67ae8ed59"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
@@ -435,6 +489,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "19cbba78c4982b15d10e44736a5fb7e992e477f6101799258d0ef7e03b288033"
+metafile = true
+
+[[files]]
+file = "mods/geophilic.pw.toml"
+hash = "01e047ce12403a657fc6669ff521a0d43cdc849aaccd217b7a055c58197cea99"
 metafile = true
 
 [[files]]
@@ -533,6 +592,11 @@ hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
 
 [[files]]
+file = "mods/larger-ore-veins-nether.pw.toml"
+hash = "b4e7cc63ea96ea0edd9c8fd451e4ccd99afeb6a6097234637cfc0503db43779d"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
@@ -618,6 +682,11 @@ hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "051b1bee4a7fd8f2a55753fe95eda061e0f2a724c5b8ad38d2ca3619c88f2fae"
+metafile = true
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "6cef110f567b6957a35aa4224c70e7e4ad22dd25f852b2a39d2457fdb804edff"
 metafile = true
@@ -685,6 +754,16 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_core.pw.toml"
+hash = "1587dce77e3d9346f237111f47a53560e30d74ae416972e1e4b91e1faff1efa2"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_gravestones.pw.toml"
+hash = "6e72f1cfdba5e594671bf56eaf7d00526f42eb7b9ceeb8ce98b6faafce869ad5"
 metafile = true
 
 [[files]]
@@ -820,11 +899,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "29810615e8704ebfa3f0fc632247b1dcf255fe3227d4224e05d84b4076169509"
-metafile = true
-
-[[files]]
-file = "mods/tectonic.pw.toml"
-hash = "52ae7d824d0e2856df296db16f108d4843a7e1fea3b1769e4678f2e5b6dd991e"
 metafile = true
 
 [[files]]

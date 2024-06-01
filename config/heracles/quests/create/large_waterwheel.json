@@ -1,0 +1,67 @@
+{
+  "dependencies": [
+    "water_wheel"
+  ],
+  "tasks": {
+    "water_wheel": {
+      "type": "heracles:item",
+      "item": "create:large_water_wheel",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "Yay": {
+      "icon": {
+        "item": {
+          "id": "create:experience_nugget",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "xptype": "POINTS",
+      "amount": 10,
+      "title": "you get the gist",
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Get a Large Water Wheel and power it"
+    },
+    "description": [
+      "A /a/Large Water Wheel/a/ is the same as a normal /a/Water Wheel/a/, but it's /c/more expensive/c/ and /c/runs slower/c/.",
+      "",
+      "/6/\"But Mister QuestMan,\" you ask, \"Why would I want that!? I want speed, not expensive slowness!\"/6/ ",
+      "    Well, I'm glad you asked. Even though it runs slower, it generates something you'll want much more, eventually: /e/Rotational Force/e/. /e/Rotational Force/e/ and /e/Rotational Speed/e/ are not the same. /e/Rotational Speed/e/ /b/uses no power by itself/b/, and it can always be sped up to the /9/max speed of 256/9/. But as soon as you connect a max-speed shaft to a /e/Component/e/, you'll find that a single /a/Water Wheel/a/ can't handle the /e/stress load/e/ of a max-speed /a/Mechanical Press/a/, /c/overstressing/c/ the mechanism and causing everything to /c/halt to a stop/c/. That's because you have less /e/Rotational Force/e/ than you need: and /a/Large Water Wheels/a/ /b/provide a lot more of that for less/b/, although you'll have to take the initial cost of speeding them up.",
+      "",
+      "Investing in a large chain of /a/Large Water Wheels/a/ /7/(yes, you can chain them! just connect their shafts together and pour water over all of them)/7/ will do you good for the near future, although you may want to invest in something more complicated in the late-game."
+    ],
+    "groups": {
+      "Create": {
+        "position": [
+          192,
+          -48
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "create:large_water_wheel",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Harnessed Hydraulics, but Bigger"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

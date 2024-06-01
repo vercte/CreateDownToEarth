@@ -1,0 +1,87 @@
+{
+  "dependencies": [
+    "cogwheel",
+    "water_wheel"
+  ],
+  "tasks": {
+    "shifting_gears": {
+      "icon": {
+        "item": {
+          "id": "create:experience_nugget",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "advancements": [
+        "create:shifting_gears"
+      ],
+      "type": "heracles:advancement"
+    }
+  },
+  "rewards": {
+    "cogwheel": {
+      "title": "Some Cogwheels for the Future",
+      "item": {
+        "id": "create:cogwheel",
+        "count": 8
+      },
+      "type": "heracles:item"
+    },
+    "xp": {
+      "icon": {
+        "item": {
+          "id": "create:experience_nugget",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "xptype": "LEVEL",
+      "amount": 1,
+      "title": "Experiences!",
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Speed is key!"
+    },
+    "description": [
+      "You have /a/Cogwheels/a/, but it's time to learn how to --really-- use them: controlling /e/Rotational Speed/e/.",
+      "",
+      "When you place a /a/Cogwheel/a/, /b/either Large or Small/b/, you can /b/hold a cogwheel of the other siz/b/e /7/(large + small, small + large)/7/, and you'll find that a /b/ghost silhouette/b/ pops up to the diagonals when hovering over the placed /a/Cogwheel/a/. This function is called /e/Placement Assist/e/: it'll help you place these diagonal cogwheels with ease, along with a bunch of other components. ",
+      "",
+      "    When you right click with the assist there, it'll place in that position; and you'll finally /b/shift some gears/b/. When you shift gears, the /b/speed either doubles or halves/b/, depending on what you're powering. Powering a /a/Large Cogwheel/a/ connected to a /a/Small Cogwheel/a/ /b/doubles the speed/b/ coming out of the small cogwheel.",
+      "    And vice versa, powering a /a/Small Cogwheel/a/ connected to a /a/Large Cogwheel/a/ can /b/halve the speed/b/ coming out of the /a/Large Cogwheel/a/. /7/(Yes, slowing the speed down will be useful in the future.)/7/",
+      "",
+      "Finally, /b/these speed changes can be chained/b/! Just with a couple of shafts, /b/you can double it even more/b/. Just /b/bring a shaft out of the faster cogwheel/b/ and /b/attach it into another large cogwheel/b/, shifting gears again.",
+      "",
+      "/7/(You can make it more compact using Andesite Casing to cover up the cogwheels' shafts by encasing it, but this will be left as an exercise to the reader ;))/7/"
+    ],
+    "groups": {
+      "Create": {
+        "position": [
+          64,
+          -112
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "numismatics:cog",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/gears.png",
+    "title": {
+      "translate": "Shifting Gears"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}
