@@ -10,7 +10,19 @@ hash = "9b7cdbac25af137a3a44989bf5ba7677f3b3648917279323e249c2d32542ae78"
 
 [[files]]
 file = "config/heracles/quests/create/andesite_casing.json"
-hash = "b5bae563930131ccb47ee1fe6a6b2454726ab573dcacfdb900f6106cb9300489"
+hash = "9b6263f7af166683a599c42b7cb466fbc0240638c797eeaff7142b1cce868a73"
+
+[[files]]
+file = "config/heracles/quests/create/blazeburner.json"
+hash = "db99e17d149c275ac4647031fa39d42d7223034294de2b7fe4b4f392eeee0f2f"
+
+[[files]]
+file = "config/heracles/quests/create/brass.json"
+hash = "4fd8893103b8be91692c0c22f486fe2e5733516832002971ca2cbe3ec8e66e0c"
+
+[[files]]
+file = "config/heracles/quests/create/brass_age.json"
+hash = "0c6b82f39327bd5311dcd1cae740680e73de6cb3e3558d2a9d0d0daccef2a13d"
 
 [[files]]
 file = "config/heracles/quests/create/cogwheel.json"
@@ -37,12 +49,16 @@ file = "config/heracles/quests/create/shifting_gears.json"
 hash = "6e20060e665850ce96ffbcdd42036fca6dea7985d28d93e4cae3fb78b6feac9b"
 
 [[files]]
+file = "config/heracles/quests/create/steam_engine.json"
+hash = "0a4aefbadef541510b277f0420a82c5af54390ac954d753cb51abc0b69cd4737"
+
+[[files]]
 file = "config/heracles/quests/create/water_wheel.json"
 hash = "60db1505f78b88d066460b70ec306d2e83ac6df136a154f66f720bfb03e8c1e0"
 
 [[files]]
 file = "config/heracles/tutorial.html"
-hash = "f4d6d183b3ce413380dc874e0c03f9d69deb6c6832e973df83c5f78cb18fe22f"
+hash = "ebd4ed725244b656aa5bfa66fb494c0f016e8ee12713a9adf16753959b244a08"
 
 [[files]]
 file = "config/yosbr/config/Veinminer/blocks.json"
