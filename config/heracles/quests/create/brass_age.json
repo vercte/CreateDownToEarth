@@ -1,0 +1,39 @@
+{
+  "dependencies": [
+    "brass"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Get some of that \"Scrumptious\" Brass Casing for your smarter factory components"
+    },
+    "description": [],
+    "groups": {
+      "Create": {
+        "position": [
+          320,
+          112
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "create:brass_casing",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "The Brass Age"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

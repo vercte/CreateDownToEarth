@@ -21,20 +21,6 @@
       "item": "create:andesite_casing",
       "amount": 1,
       "collection": "AUTOMATIC"
-    },
-    "andesite_age": {
-      "title": "The Andesite Age",
-      "icon": {
-        "item": {
-          "id": "create:experience_nugget",
-          "count": 1
-        },
-        "type": "heracles:item"
-      },
-      "advancements": [
-        "create:andesite_casing"
-      ],
-      "type": "heracles:advancement"
     }
   },
   "rewards": {

@@ -1,0 +1,111 @@
+{
+  "dependencies": [
+    "blazeburner"
+  ],
+  "tasks": {
+    "the_powerhouse": {
+      "icon": {
+        "item": {
+          "id": "create:experience_nugget",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "advancements": [
+        "create:steam_engine"
+      ],
+      "type": "heracles:advancement"
+    },
+    "tank": {
+      "type": "heracles:item",
+      "item": "create:fluid_tank",
+      "amount": 4,
+      "collection": "AUTOMATIC"
+    },
+    "pump": {
+      "type": "heracles:item",
+      "item": "create:mechanical_pump",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    },
+    "pipes": {
+      "type": "heracles:item",
+      "item": "create:fluid_pipe",
+      "amount": 4,
+      "collection": "AUTOMATIC"
+    },
+    "steam_engine": {
+      "type": "heracles:item",
+      "item": "create:steam_engine",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "exp": {
+      "icon": {
+        "item": {
+          "id": "create:experience_nugget",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "xptype": "LEVEL",
+      "amount": 2,
+      "title": "Experiences!",
+      "type": "heracles:xp"
+    },
+    "treat": {
+      "title": "A really good treat!",
+      "item": {
+        "id": "farmersdelight:roast_chicken_block",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Get a Steam Engine, the machine you'll be using to fuel plenty of your future machines"
+    },
+    "description": [
+      "/a/Steam Engines/a/ provide a great way to power your factories and farms, and are /b/easily scalable/b/ with your needs.",
+      "",
+      "They need three components to function: /9/Heat/9/, /9/Size/9/, and /9/Water/9/.",
+      "",
+      "/9/Heat/9/ is the usage of a fueled /a/Blaze Burner/a/ to heat the /a/Steam Engine/a/ from under the tank. Each /a/Blaze Burner/a/ can provide one /e/heat level/e/, with 2x2 tanks up to /e/Level 4/e/ and 3x3 tanks up to /e/Level 9/e/. Blaze burners can be /e/Superheated/e/ to provide an extra level, allowing 3x3 tanks to have /e/Level 18/e/.",
+      "",
+      "/9/Water/9/ is the pumping of water into the /a/Fluid Tanks/a/ of the /a/Steam Engine/a/ in order to provide a constant flow of water ready to be heated into steam. The Steam Engine /c/ignores water inside the tanks/c/ when created; you need a /b/constant flow of water **that's fast enough**/b/ from the /a/Mechanical Pump/a/.",
+      "",
+      "/9/Size/9/ is the amount of /b/Fluid Tanks/b/ in the steam engine. As long as they all appear connected, they are. It doesn't get simpler than that.",
+      "",
+      "Confused? /b/Ponder the Steam Engine/b/! Search it up in the item browser and ponder it from the tooltip."
+    ],
+    "groups": {
+      "Create": {
+        "position": [
+          128,
+          172
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "create:steam_engine",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/gears.png",
+    "title": {
+      "translate": "Steam Engines"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

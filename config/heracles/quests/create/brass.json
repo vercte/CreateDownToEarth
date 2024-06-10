@@ -1,0 +1,59 @@
+{
+  "dependencies": [
+    "blazeburner"
+  ],
+  "tasks": {
+    "brass": {
+      "type": "heracles:item",
+      "item": "create:brass_ingot",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "stripped_log": {
+      "title": "You were about to get one, right?",
+      "item": {
+        "id": "minecraft:stripped_oak_log",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Get some brass, another essential resource"
+    },
+    "description": [
+      "/a/Brass,/a/ like /a/Andesite Alloy/a/, is a /e/crafting ingredient/e/ used in many of your more advanced /e/components/e/. There's not much more about it.",
+      "",
+      "Get it by /e/Mixing/e/ /a/Zinc/a/ and /a/Copper Ingots/a/ in a /e/Heated/e/ basin."
+    ],
+    "groups": {
+      "Create": {
+        "position": [
+          256,
+          112
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "create:brass_ingot",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Real Alloys"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}
