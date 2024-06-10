@@ -258,11 +258,6 @@ hash = "522541d0f64752df95a0fd2089aff87c13aada4ebf6c9f54150284f28e207286"
 metafile = true
 
 [[files]]
-file = "mods/chunks-fade-in.pw.toml"
-hash = "76a95574d5fb42028dd3b21f862900539f2e6052101df8305bcbfb7ff0ed9cbe"
-metafile = true
-
-[[files]]
 file = "mods/cleardespawn.pw.toml"
 hash = "be484c508ba6866ae478956e053a069643d489b8a92eb6079057d70e3337c106"
 metafile = true
