@@ -908,6 +908,11 @@ hash = "29810615e8704ebfa3f0fc632247b1dcf255fe3227d4224e05d84b4076169509"
 metafile = true
 
 [[files]]
+file = "mods/toggle-item-frames.pw.toml"
+hash = "cefd94e3f4cd3c22e6d453eca4e7dd46e0b2cb91719f622b6fc20fe75ee18057"
+metafile = true
+
+[[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "8236569e1e8aac24dec8b22da3a67cf656260daec478e463dc8c904b18d909bd"
 metafile = true
