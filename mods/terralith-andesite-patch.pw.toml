@@ -1,6 +1,6 @@
 name = "Terralith andesite patch"
 filename = "Terralith_andesite_patch.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/P4PAsklC/versions/n22gCKB8/Terralith_andesite_patch.jar"

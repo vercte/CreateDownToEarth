@@ -168,6 +168,11 @@ hash = "525c8448074c4402b411c2b904eff4dae542834c649d13dc00475bd2546fe286"
 metafile = true
 
 [[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "2b66c02d4d4761a2a1ed805a391a9294ba29103182b86092423ca5c908421e8e"
+metafile = true
+
+[[files]]
 file = "mods/antighost.pw.toml"
 hash = "6a36d39f010d87ca7fece6e3ef177d3af8f98dfa9a91a4eff730e06a7b169bb2"
 metafile = true
@@ -573,6 +578,11 @@ hash = "b5b076663f62cfb0c3d8ee8e304711d6fbfa043f72a4706dc88edb927da6f046"
 metafile = true
 
 [[files]]
+file = "mods/journey-pac.pw.toml"
+hash = "435a763a17dee37701513a67621b6837fb47fa790d20f8f9baca03cf34880e6c"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "86462aa01d89d1cce56cc34a11790e9ebba35f1a9c39182667aca4e468036d72"
 metafile = true
@@ -745,6 +755,16 @@ metafile = true
 [[files]]
 file = "mods/numismatics.pw.toml"
 hash = "9305abd7bed1a6175113e2fca0fe65174023cda93ce42716c5a94eba5d715bbf"
+metafile = true
+
+[[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "b61858247ad476daca4d59fce04e029924d9215207f260c338ce9a446f90f461"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "a8e78756fab40c2ca32794f30aa1c8188e721c463f6c797e1b3b7d972ae0d8b1"
 metafile = true
 
 [[files]]
@@ -929,12 +949,12 @@ metafile = true
 
 [[files]]
 file = "mods/terralith-andesite-patch.pw.toml"
-hash = "d159b5cde0830809af46e25eec7bd667174bfbf634510b82dcd99bf6bf49106f"
+hash = "d51f5ef69fd761036724319246ed247d24af79ca88d150bd92bd37c123c4635e"
 metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "78264cc5097e26b3c5b34fd1b01754182b4543602ea99079a5d3fa4e69a7e579"
+hash = "bfe46c098031de85aa222b0460dbe5a35aff9ce5c071543ec807f2ec18c15959"
 metafile = true
 
 [[files]]

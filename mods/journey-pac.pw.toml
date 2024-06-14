@@ -1,0 +1,13 @@
+name = "JourneyPAC"
+filename = "JourneyPAC-fabric-1.20.1-1.1.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UUErFmkX/versions/LkvhAe8b/JourneyPAC-fabric-1.20.1-1.1.6.jar"
+hash-format = "sha1"
+hash = "f9b1806ca8247bea299b3c20fe4dfe6417afe561"
+
+[update]
+[update.modrinth]
+mod-id = "UUErFmkX"
+version = "LkvhAe8b"
