@@ -603,6 +603,11 @@ hash = "b4e7cc63ea96ea0edd9c8fd451e4ccd99afeb6a6097234637cfc0503db43779d"
 metafile = true
 
 [[files]]
+file = "mods/lava-bucket-trash.pw.toml"
+hash = "e576a386a01938698a018c97800383846cddacdf2fa4abe6873c3b81881b3033"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
