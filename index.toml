@@ -208,6 +208,11 @@ hash = "e0939ffb6b7b49dde8f936cd83f6f4881238f71bbdf14afe3b22b364b7e8cfbe"
 metafile = true
 
 [[files]]
+file = "mods/better-climbing.pw.toml"
+hash = "7da0c9deaa53f551129de9ff7ad2d2c28331ab938c8da1f4d22a25330dd1425a"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
@@ -495,11 +500,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "4375a78dc2331d06b922e9011969e259e23947bb57088871d30b26d3b2ed37b6"
-metafile = true
-
-[[files]]
-file = "mods/geophilic.pw.toml"
-hash = "01e047ce12403a657fc6669ff521a0d43cdc849aaccd217b7a055c58197cea99"
 metafile = true
 
 [[files]]
@@ -808,6 +808,11 @@ hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
 
 [[files]]
+file = "mods/remove-terralith-intro-message.pw.toml"
+hash = "352bbd75887df2d8c2c181255a27d6aebc78dd52ee867c85a317a4e2b83a49fd"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d812e151028b7231d0e6bbd28a7b03a2b0e912c7052c0565e2f47e740717c298"
 metafile = true
@@ -910,6 +915,21 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "29810615e8704ebfa3f0fc632247b1dcf255fe3227d4224e05d84b4076169509"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "1624e47e8890c8e7a09a7f808f2fd3f01b6d07ce350e9b9c7ccc86aea9eda1fa"
+metafile = true
+
+[[files]]
+file = "mods/terralith-andesite-patch.pw.toml"
+hash = "d159b5cde0830809af46e25eec7bd667174bfbf634510b82dcd99bf6bf49106f"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "78264cc5097e26b3c5b34fd1b01754182b4543602ea99079a5d3fa4e69a7e579"
 metafile = true
 
 [[files]]
