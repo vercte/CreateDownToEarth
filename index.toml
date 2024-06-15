@@ -61,6 +61,10 @@ file = "config/heracles/tutorial.html"
 hash = "ebd4ed725244b656aa5bfa66fb494c0f016e8ee12713a9adf16753959b244a08"
 
 [[files]]
+file = "config/leaves_us_in_peace.json"
+hash = "7e6bff68cf90fa1738cd66d4ee426fdd132946dc3dcfff5b4dacb07926b6a11e"
+
+[[files]]
 file = "config/yosbr/config/Veinminer/blocks.json"
 hash = "18b95c3a9a95f6985aa66ffec084f088052e991ba8a5ff39495238e19570cbf0"
 
