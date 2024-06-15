@@ -973,6 +973,16 @@ hash = "8236569e1e8aac24dec8b22da3a67cf656260daec478e463dc8c904b18d909bd"
 metafile = true
 
 [[files]]
+file = "mods/treeplacer-terralith-addon.pw.toml"
+hash = "d81e3194f00c1de1b629c23bf12b5feeea0ea426ef2f63fbd5a85506eb778efe"
+metafile = true
+
+[[files]]
+file = "mods/treeplacer.pw.toml"
+hash = "1936abc06f1ad9e034a463aa612bd6cdd1a7b7c64c9df5d9885f1d022e59477e"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
