@@ -967,6 +967,11 @@ hash = "d51f5ef69fd761036724319246ed247d24af79ca88d150bd92bd37c123c4635e"
 metafile = true
 
 [[files]]
+file = "mods/terralith-biome-saplings.pw.toml"
+hash = "333a66150c6cf05561dc2e0ead25cff392d1b0b791bb87497285bf67b94795f3"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "bfe46c098031de85aa222b0460dbe5a35aff9ce5c071543ec807f2ec18c15959"
 metafile = true
@@ -984,16 +989,6 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "8236569e1e8aac24dec8b22da3a67cf656260daec478e463dc8c904b18d909bd"
-metafile = true
-
-[[files]]
-file = "mods/treeplacer-terralith-addon.pw.toml"
-hash = "d81e3194f00c1de1b629c23bf12b5feeea0ea426ef2f63fbd5a85506eb778efe"
-metafile = true
-
-[[files]]
-file = "mods/treeplacer.pw.toml"
-hash = "1936abc06f1ad9e034a463aa612bd6cdd1a7b7c64c9df5d9885f1d022e59477e"
 metafile = true
 
 [[files]]
