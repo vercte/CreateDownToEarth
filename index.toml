@@ -928,12 +928,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
-hash = "447e5befa166230674f2fa31097b959453affb2057d146c3780f9eb1b02cc46b"
+hash = "5287b480f9adfe79609ac3cf3ff361870aef93551f6e800f36ef6837812ef574"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
-hash = "15d6e9be44f90d3f93e298bbd6359a39a9e47a6194c0e02a871783bf27c41336"
+hash = "1c1b3e65c0b7e16f21c7def08713799c07ad02be8b69633ef2d46dbf08a80ef0"
 metafile = true
 
 [[files]]
