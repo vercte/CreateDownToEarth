@@ -257,6 +257,11 @@ hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
 metafile = true
 
 [[files]]
+file = "mods/carpet.pw.toml"
+hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "94fbe9655850d99ed2a950e6b59c9cbfabfc21d859c7920c4a8b21101f5981b7"
 metafile = true
@@ -377,8 +382,8 @@ hash = "01c94894fc8ce4a564c7ad0a74d71d4b75d8cc5ad85e921cfc71c013d52adeca"
 metafile = true
 
 [[files]]
-file = "mods/discord4fabric.pw.toml"
-hash = "f2fbe88573cf94fd3467b8b516320afeed5b760e00069e253662f342bb47fb35"
+file = "mods/discord-mc-chat.pw.toml"
+hash = "d541a11bd20b0c81f84d7cc05b99f54b481851f84bd37ce94f4c0d9e27f21054"
 metafile = true
 
 [[files]]
@@ -902,6 +907,11 @@ hash = "7cfd850586a354b0a14b04234dbc5254f80610b69f7ffc1a7e60a63332739cf1"
 metafile = true
 
 [[files]]
+file = "mods/slumber.pw.toml"
+hash = "31320905f9994253ed2f455c97e0707fe97bc4734f5096dc79b021369b4554b3"
+metafile = true
+
+[[files]]
 file = "mods/snow-real-magic.pw.toml"
 hash = "23fde08c692adf1ef03b28acb2f398db7630df24f43969d60f2c9fd1c3cb6c3c"
 metafile = true
@@ -974,11 +984,6 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "bfe46c098031de85aa222b0460dbe5a35aff9ce5c071543ec807f2ec18c15959"
-metafile = true
-
-[[files]]
-file = "mods/tick-stasis.pw.toml"
-hash = "665e93af3d261e49b334bb21febfb2910758d746e5a6f293bead001fca5ed88a"
 metafile = true
 
 [[files]]

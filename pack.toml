@@ -1,12 +1,12 @@
 name = "Create Down To Earth"
 author = "Vercte"
-version = "1.4.2"
+version = "1.4.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0c5b6cb92769cd1454096d55e7e0703673c1db3dd61384267450a1a2a17576f2"
+hash = "f1e7e248f7122fd63e3fc7e3e7b70575924dbc262dd349f1cea31bf32213ba8c"
 
 [versions]
 fabric = "0.15.11"
