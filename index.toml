@@ -442,6 +442,11 @@ hash = "930f3c6ba869160e03c602b88bdb07cc1e994f8dab353f8df084c076219d701c"
 metafile = true
 
 [[files]]
+file = "mods/exposure.pw.toml"
+hash = "9820b8497ec0fdefcaa82801ca8ed125212d5f15957b139d81899b3baa88586e"
+metafile = true
+
+[[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "06859e85abd86899e44b38c090d53f5804550aca2a23924fbb6bb1867d0b859a"
 metafile = true
@@ -502,6 +507,11 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/freecam.pw.toml"
+hash = "81cb55170d352d0e7786b5a3f7c6f2ceeecd1f52c4559ee423598b4d62e10af6"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "e19a9d34d9f79e489aef99649b6dbd79399e149cdf93b6abd4647d0e9437da51"
 metafile = true
@@ -509,6 +519,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "4375a78dc2331d06b922e9011969e259e23947bb57088871d30b26d3b2ed37b6"
+metafile = true
+
+[[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "fb66ee96cf8bb97318f621112bf35f1902a17deb286d9fde31c2ce72c63e60d7"
 metafile = true
 
 [[files]]
@@ -589,6 +604,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "86462aa01d89d1cce56cc34a11790e9ebba35f1a9c39182667aca4e468036d72"
+metafile = true
+
+[[files]]
+file = "mods/kaffees_dual_ride.pw.toml"
+hash = "9866c2b994c7b34d462430b04c30e84538414954e6f07462ab7d21aead518e8f"
 metafile = true
 
 [[files]]
@@ -888,7 +908,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-what-you-got.pw.toml"
-hash = "73e522db6666ce4a96b69a93953553dc02d1bec4520f61207502f154ea6d608e"
+hash = "cd345d97de598d81756ebb4d2ad44ac307bdabbfc4b01e66a726d20b149e35c6"
 metafile = true
 
 [[files]]
