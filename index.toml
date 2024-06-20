@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/carryon-common.json"
+hash = "b884c20fd3e8c44b80fe942aea81983f74719e83f38af581d6afc7d96801aec6"
+
+[[files]]
 file = "config/heracles/groups.txt"
 hash = "49e52b78aa288e6b5a7885e4499de6c5612db4eae3d4e9d81bbe65de82e88348"
 
@@ -63,6 +67,10 @@ hash = "ebd4ed725244b656aa5bfa66fb494c0f016e8ee12713a9adf16753959b244a08"
 [[files]]
 file = "config/leaves_us_in_peace.json"
 hash = "654bd35fa053ddfe3bbcd88ec8a6da8ff0b19964bdd8f46dc5bbb619fe53453d"
+
+[[files]]
+file = "config/openpartiesandclaims-server.toml"
+hash = "5aa6181753b868854e0879425ef759751cccf0d4968d144cfcc5cf37d715fd82"
 
 [[files]]
 file = "config/yosbr/config/Veinminer/blocks.json"
@@ -908,7 +916,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-what-you-got.pw.toml"
-hash = "cd345d97de598d81756ebb4d2ad44ac307bdabbfc4b01e66a726d20b149e35c6"
+hash = "73e522db6666ce4a96b69a93953553dc02d1bec4520f61207502f154ea6d608e"
 metafile = true
 
 [[files]]
