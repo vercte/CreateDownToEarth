@@ -66,7 +66,7 @@ hash = "60db1505f78b88d066460b70ec306d2e83ac6df136a154f66f720bfb03e8c1e0"
 
 [[files]]
 file = "config/heracles/tutorial.html"
-hash = "ebd4ed725244b656aa5bfa66fb494c0f016e8ee12713a9adf16753959b244a08"
+hash = "b02c3f23aadc07c82bc12f1aa6c06da123cd54fa45ae5a3a3750df1f1ab42182"
 
 [[files]]
 file = "config/leaves_us_in_peace.json"
@@ -109,16 +109,24 @@ file = "config/yosbr/config/modmenu.json"
 hash = "e8c8bd2f162a095d356436b88e79e171dfee6c12cdc9737b95b0873fa3b507fd"
 
 [[files]]
-file = "config/yosbr/config/spelunkery-client.json"
-hash = "ddb816d619b1c73ff337aacad4f14b1f1214bf213df2655551c00cdde668b742"
-
-[[files]]
 file = "config/yosbr/config/spelunkery-common.json"
 hash = "fb608c7fbea4147bddaee5404ec27fb1f4d7af322059d3bb5d3081311efd35be"
 
 [[files]]
+file = "config/yosbr/spelunkery-client.json"
+hash = "ddb816d619b1c73ff337aacad4f14b1f1214bf213df2655551c00cdde668b742"
+
+[[files]]
+file = "kubejs/assets/downtoearth/lang/en_us.json"
+hash = "dbcfa9cce9afdba1e0985840ab610aa1ade35e04e762ebe58b95f844db3ad579"
+
+[[files]]
 file = "kubejs/assets/downtoearth/textures/item/incomplete_tape_measure.png"
 hash = "c39d5274c334d135229711c434873dd5be87652cb5e47f74ec49391b467b9e5d"
+
+[[files]]
+file = "kubejs/assets/emi/index/stacks/unob_or_obsolete.json"
+hash = "8bbc68b7e12e1949da381e9ba00e2e37d993f8570888a0c5d2bae3e08d84f659"
 
 [[files]]
 file = "kubejs/server_scripts/create_integrated_recipes.js"
