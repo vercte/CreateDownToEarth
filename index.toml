@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/carryon-common.json"
-hash = "b884c20fd3e8c44b80fe942aea81983f74719e83f38af581d6afc7d96801aec6"
+hash = "cd3352f09f045687deddfbdc1041ee045de051885c513b10f951863f0d47f156"
 
 [[files]]
 file = "config/clienttweaks-common.toml"
@@ -126,7 +126,7 @@ hash = "c39d5274c334d135229711c434873dd5be87652cb5e47f74ec49391b467b9e5d"
 
 [[files]]
 file = "kubejs/assets/emi/index/stacks/unob_or_obsolete.json"
-hash = "8bbc68b7e12e1949da381e9ba00e2e37d993f8570888a0c5d2bae3e08d84f659"
+hash = "8a61ec248e0fe8dfeeae9ddd5af3208828f35cf21761699c5c5990d531c85ab5"
 
 [[files]]
 file = "kubejs/server_scripts/create_integrated_recipes.js"

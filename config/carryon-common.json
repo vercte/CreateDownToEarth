@@ -64,6 +64,7 @@
       "allowedBlocks": [
         "create:basin",
         "create:depot",
+        "create:spout",
         "create:blaze_burner",
         "#extended_drawers:drawers",
         "#c:wooden_chests",
@@ -72,7 +73,14 @@
         "minecraft:smoker",
         "minecraft:decorated_pot",
         "#another_furniture:drawers",
-        "farmersdelight:*_cabinet"
+        "farmersdelight:*_cabinet",
+        "minecraft:campfire",
+        "minecraft:soul_campfire",
+        "minecraft:jukebox",
+        "minecraft:beehive",
+        "minecraft:bee_nest",
+        "trashcans:*_trash_can"
+        
       ],
       "//allowedStacking": "Entities that CAN have other entities stacked on top of them (useWhitelistStacking must be true)",
       "allowedStacking": []
