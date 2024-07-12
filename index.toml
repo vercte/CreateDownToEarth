@@ -1097,7 +1097,7 @@ metafile = true
 
 [[files]]
 file = "mods/veinminer.pw.toml"
-hash = "3deb723c5228a46e93163f07af28eac8463c2b7a5a3642867ca7c3579b569140"
+hash = "693b4bb4b6e00c94f8c000d67e834ec1c4e325a390fcd0876df2453cc66eacb2"
 metafile = true
 
 [[files]]
