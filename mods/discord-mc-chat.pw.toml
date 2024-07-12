@@ -1,6 +1,7 @@
 name = "Discord-MC-Chat"
 filename = "Discord-MC-Chat-2.3.2.jar"
 side = "server"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/D0sHdnXY/versions/3TuVILNu/Discord-MC-Chat-2.3.2.jar"

@@ -1,0 +1,4 @@
+{
+    "effect.farmersdelight.nourishment.description": "Keeps your saturation stat from decreasing while active. Healing can still decrease your saturation.",
+    "effect.farmersdelight.comfort.description": "Slowly heals you. Acts like you always have hunger to heal, healing at the pace of full hunger without saturation."
+}
