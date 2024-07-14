@@ -9,6 +9,10 @@ file = "config/clienttweaks-common.toml"
 hash = "11627421edcb63ad49a1e280f3effda9b7d0103bde2afc06412d9934c4a0f673"
 
 [[files]]
+file = "config/createfood.json5"
+hash = "98d9aa036a0ba9ba258a73128e8f7838cad695f491636de401244a3081b02b6d"
+
+[[files]]
 file = "config/heracles/groups.txt"
 hash = "49e52b78aa288e6b5a7885e4499de6c5612db4eae3d4e9d81bbe65de82e88348"
 
