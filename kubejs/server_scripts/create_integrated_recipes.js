@@ -40,4 +40,26 @@ ServerEvents.recipes((event) => {
         ],
         transitionalItem: { item: "downtoearth:incomplete_tape_measure" }
     });
+
+    // #region Crushing
+    event.custom({
+        type: "create:crushing",
+        ingredients: [
+            { item: "minecraft:quartz" },
+        ],
+        results: [
+            { item: "create:experience_nugget", chance: 0.80}
+        ]
+    });
+
+    event.custom({
+        type: "create:crushing",
+        ingredients: [
+            { item: "spelunkery:rough_quartz_block" },
+        ],
+        results: [
+            { item: "create:experience_nugget", count: 9, chance: 0.80}
+        ]
+    });
+    // #endregion
 });
