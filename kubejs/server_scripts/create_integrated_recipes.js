@@ -62,4 +62,14 @@ ServerEvents.recipes((event) => {
         ]
     });
     // #endregion
+
+    event.custom({
+        type: "create:haunting",
+        ingredients: [
+            { item: "minecraft:oxeye_daisy" },
+        ],
+        results: [
+            { item: "garnished:pansophical_daisy"}
+        ]
+    });
 });
